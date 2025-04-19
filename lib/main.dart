@@ -6,7 +6,6 @@ void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
     home: HomeScreen(),
-    // NEW FEATURE USER PLEASE
   ));
 }
 
